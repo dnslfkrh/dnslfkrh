@@ -49,3 +49,5 @@ My name is yonguk
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
 </ul>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnslfkrh&layout=compact)
