@@ -6,7 +6,7 @@ My name is yonguk
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/C#-320064?style=for-the-badge&logo=C#&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-320064?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 
 <br>
