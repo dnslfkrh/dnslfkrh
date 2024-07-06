@@ -2,13 +2,14 @@
 
 LANGUAGE
 
-### BACKEND
+BACKEND
 
-### FRONTEND
+FRONTEND
 
-### DATABASE
+DATABASE
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-### ETC
+ETC
 
 <!--
 **dnslfkrh/dnslfkrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
