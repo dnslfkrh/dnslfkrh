@@ -49,8 +49,3 @@ My name is yonguk
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
 </ul>
-
-<br>
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslfkrh&show_icons=true&theme=radical)
-</div>
