@@ -5,8 +5,8 @@ My name is yonguk
 📚LANGUAGE
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-  <img src="https://img.shields.io/badge/c%23-320064?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-320064?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <br>
