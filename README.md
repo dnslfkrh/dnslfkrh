@@ -51,4 +51,4 @@ My name is yonguk
 </ul>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslfkrh&show_icons=true&theme=default)
+![dnslfkrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslfkrh&show_icons=true&theme=dracula)
