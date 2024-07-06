@@ -1,4 +1,4 @@
-[## Hi there👋
+Hi there👋
 My name is yonguk
 
 📚LANGUAGE
@@ -60,4 +60,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](url)
