@@ -1,17 +1,30 @@
-## Hi there 👋
+[## Hi there👋
+My name is yonguk
 
-## STACK
+## 📌STACK
 
-LANGUAGE
+📚LANGUAGE
 
-BACKEND
+🖥️BACKEND
 
-FRONTEND
+📱FRONTEND
 
-DATABASE
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+🔒DATABASE
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
-ETC
+🕹️ETC
+
+
+
+
+
+
+
+
+
+<!--🎮📍📌⚙️🖥️📱🔒🕹️🪪📚-->
 
 <!--
 **dnslfkrh/dnslfkrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](url)
