@@ -4,9 +4,9 @@ My name is yonguk
 <br>
 📚LANGUAGE
 <div style="display: flex; gap: 10px; margin-top: 0;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javassript&logoColor=black" style="height: 20px;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="height: 20px;">
-  <img src="https://img.shields.io/badge/C%23-6C47FF?style=flat&logo=c-sharp&logoColor=white" style="height: 20px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javasript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-6C47FF?style=flat&logo=c-sharp&logoColor=white">
 </div>
 
 <br>
