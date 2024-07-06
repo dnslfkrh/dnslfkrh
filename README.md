@@ -43,7 +43,11 @@ My name is yonguk
 </div>
 
 <br>
-
+🪪 CERTIFICATIONS
+<ul style="list-style-type: disc;">
+  <li>리눅스마스터 2급</li>
+  <li>Naver Cloud Platform Associate</li>
+</ul>
 
 
 
