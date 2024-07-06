@@ -50,5 +50,5 @@ My name is yonguk
   <li>Naver Cloud Platform Associate</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnslfkrh&layout=compact)
-![dnslfkrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslfkrh&show_icons=true&theme=dracula)
+<br>
+![dnslfkrh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnslfkrh&show_icons=true&theme=Shows Github logo instead rank level)
