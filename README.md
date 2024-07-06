@@ -36,11 +36,12 @@ My name is yonguk
 <strong style="font-size: 1.2em;">ETC</strong>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
+
 
 <br>
 <strong style="font-size: 1.2em;">CERTIFICATIONS</strong>
