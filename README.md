@@ -10,14 +10,14 @@ My name is yonguk
 </div>
 
 <br>
-🖥️BACKEND
+<strong style="font-size: 1.2em;">🖥️BACKEND</strong>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
 </div>
 
 <br>
-📱FRONTEND
+<strong style="font-size: 1.2em;">📱FRONTEND</strong>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -26,14 +26,14 @@ My name is yonguk
 </div>
 
 <br>
-🔒DATABASE
+<strong style="font-size: 1.2em;">🔒DATABASE</strong>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
 
 <br>
-🕹️ETC
+<strong style="font-size: 1.2em;">🕹️ETC</strong>
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
@@ -43,11 +43,12 @@ My name is yonguk
 </div>
 
 <br>
-🪪 CERTIFICATIONS
+<strong style="font-size: 1.2em;">🪪 CERTIFICATIONS</strong>
 <ul style="list-style-type: disc;">
   <li>리눅스마스터 2급</li>
   <li>Naver Cloud Platform Associate</li>
 </ul>
+
 
 
 
