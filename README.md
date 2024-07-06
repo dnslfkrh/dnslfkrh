@@ -45,7 +45,7 @@ My name is yonguk
 <br>
 <strong style="font-size: 1.2em;">🪪 CERTIFICATIONS</strong>
 <ul style="list-style-type: disc;">
-  <li>리눅스마스터 2급</li>
+  <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
 </ul>
 
