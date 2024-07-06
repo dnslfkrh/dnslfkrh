@@ -40,7 +40,6 @@ My name is yonguk
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
 </div>
 
 
