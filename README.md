@@ -28,8 +28,8 @@ My name is yonguk
 <br>
 🔒DATABASE
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
 
 <br>
