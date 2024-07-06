@@ -7,7 +7,6 @@ My name is yonguk
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
   <img src="https://img.shields.io/badge/C#-320064?style=for-the-badge&logo=C#&logoColor=white">
-  ![image](https://github.com/dnslfkrh/dnslfkrh/assets/140808035/e3420162-8112-4aeb-bbfa-ef7184996f22)
 </div>
 
 <br>
