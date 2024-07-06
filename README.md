@@ -1,9 +1,6 @@
 ## Hi there👋
 My name is yonguk
 
-## Hi there👋
-My name is yonguk
-## 📌STACK
 📚LANGUAGE
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
