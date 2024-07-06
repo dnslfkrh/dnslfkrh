@@ -1,7 +1,7 @@
 ## Hi there👋
 My name is yonguk
-<br>
 
+<br>
 📚Language
 <div style="display: flex; gap: 10px; margin-top: 0;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
