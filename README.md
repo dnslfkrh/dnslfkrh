@@ -1,7 +1,7 @@
 # Hi there👋
 My name is yonguk
 
-## SKILLS
+## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -42,7 +42,7 @@ My name is yonguk
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 
-## CERTIFICATIONS
+## Certifications
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
