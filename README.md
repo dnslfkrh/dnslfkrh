@@ -1,7 +1,8 @@
 ## Hi
 <div>
-  I currently work in the server control room.
+  university student, currently working in server control room.
 </div>
+<br>
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
