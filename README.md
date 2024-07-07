@@ -1,5 +1,5 @@
-## Hi
-college student working in server management
+## Hi, I AM
+a college student working in server server control room
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
