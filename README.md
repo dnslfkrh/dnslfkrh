@@ -1,8 +1,8 @@
 ## Hi
 <div>
   I am a university student hoping to become a full-stack developer.
+  I currently work in the server control room.
 </div>
-I currently work in the server control room.
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
