@@ -1,4 +1,5 @@
-# Welcome to my GitHub
+## Hi
+college student working in server management
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
