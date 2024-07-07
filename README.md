@@ -1,5 +1,6 @@
-## Hi, I AM
-a college student working in server server control room
+## Hi
+I am a university student hoping to become a full-stack developer.
+I currently work in the server control room.
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
