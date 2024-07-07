@@ -1,5 +1,7 @@
 ## Hi
-I am a university student hoping to become a full-stack developer.
+<div>
+  I am a university student hoping to become a full-stack developer.
+</div>
 I currently work in the server control room.
 
 ## Skills
