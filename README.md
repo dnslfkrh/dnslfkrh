@@ -42,8 +42,6 @@ My name is yonguk
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 
-
-<br>
 ## CERTIFICATIONS
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
