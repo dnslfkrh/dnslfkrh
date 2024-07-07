@@ -1,6 +1,5 @@
 ## Hi
 <div>
-  I am a university student hoping to become a full-stack developer.
   I currently work in the server control room.
 </div>
 
