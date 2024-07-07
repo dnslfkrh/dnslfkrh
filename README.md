@@ -1,4 +1,4 @@
-# Hello
+# Welcome to my GitHub
 
 ## Skills
 <strong style="font-size: 1.2em;">LANGUAGE</strong>
