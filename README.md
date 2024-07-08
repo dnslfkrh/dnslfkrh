@@ -4,7 +4,7 @@
 </div>
 <br>
 
-## Skills
+## 📚Skills
 <strong style="font-size: 1.2em;">Languages</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -46,7 +46,7 @@
 </div>
 <br>
 
-## Certifications
+## 🪪Certifications
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
