@@ -5,7 +5,7 @@
 </div>
 <br>
 
-## 📚Skills
+## Skills
 <div style="margin-top: 5px;"></div>
 <strong style="font-size: 1.1em;">Most Used</strong>
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 10px;">
@@ -42,7 +42,7 @@
 </div>
 <br>
 
-## 🪪Certifications
+## Certifications
 <div style="margin-top: 5px;"></div>
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
