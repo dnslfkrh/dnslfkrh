@@ -38,7 +38,7 @@
 
 <strong style="font-size: 1.2em;">Tool</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
-  <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
