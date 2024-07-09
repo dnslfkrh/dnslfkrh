@@ -24,16 +24,22 @@
 
 <strong style="font-size: 1.2em;">Rarely Used</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
+  <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 <br>
 
 <strong style="font-size: 1.2em;">Used At Least Once</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
 </div>
 <br>
 
 <strong style="font-size: 1.2em;">Tool</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
 <br>
 
