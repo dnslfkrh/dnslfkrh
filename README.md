@@ -37,7 +37,7 @@
 <div style="display: flex; gap: 5px; margin-top: 5px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-181717?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
 <div style="margin-top: 5px;"></div>
 
