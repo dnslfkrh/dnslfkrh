@@ -1,4 +1,5 @@
 ## Hi
+<div style="margin-top: 5px;"></div>
 <div>
   university student, currently working in server monitoring room.
 </div>
@@ -39,9 +40,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
-<div style="margin-top: 5px;"></div>
+<br>
 
 ## 🪪Certifications
+<div style="margin-top: 5px;"></div>
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
