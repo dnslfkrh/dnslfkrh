@@ -11,6 +11,7 @@ Hi
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </div>
+<br>
 
 <strong style="font-size: 1.2em;">Recently Studying</strong>
 <div style="display: flex; gap: 10px; margin-top: 10;">
@@ -19,6 +20,7 @@ Hi
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
+<br>
 
 <strong style="font-size: 1.2em;">Rarely Used</strong>
 <div style="display: flex; gap: 10px; margin-top: 10;">
@@ -26,11 +28,13 @@ Hi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
+<br>
 
 <strong style="font-size: 1.2em;">Used At Least Once</strong>
 <div style="display: flex; gap: 10px; margin-top: 10;">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
 </div>
+<br>
 
 <strong style="font-size: 1.2em;">Tool</strong>
 <div style="display: flex; gap: 10px; margin-top: 10;">
