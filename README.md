@@ -6,14 +6,14 @@ Hi
 
 ## 📚Skills
 <strong style="font-size: 1.2em;">Most Used</strong>
-<div style="display: flex; gap: 10px; margin-top: 0;">
+<div style="display: flex; gap: 10px; margin-top: -10;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </div>
 
 <strong style="font-size: 1.2em;">Recently Studying</strong>
-<div style="display: flex; gap: 10px; margin-top: 0;">
+<div style="display: flex; gap: 10px; margin-top: -10;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
@@ -21,19 +21,19 @@ Hi
 </div>
 
 <strong style="font-size: 1.2em;">Rarely Used</strong>
-<div style="display: flex; gap: 10px; margin-top: 0;">
+<div style="display: flex; gap: 10px; margin-top: -10;">
   <img src="https://img.shields.io/badge/AmazonWebServices-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 
 <strong style="font-size: 1.2em;">Used At Least Once</strong>
-<div style="display: flex; gap: 10px; margin-top: 0;">
+<div style="display: flex; gap: 10px; margin-top: -10;">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
 </div>
 
 <strong style="font-size: 1.2em;">Tool</strong>
-<div style="display: flex; gap: 10px; margin-top: 0;">
+<div style="display: flex; gap: 10px; margin-top: -10;">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
