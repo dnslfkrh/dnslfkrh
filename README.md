@@ -39,7 +39,7 @@ Hi
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
-<br>
+<div style="margin-top: 5px;"></div>
 
 ## 🪪Certifications
 <ul style="list-style-type: disc;">
