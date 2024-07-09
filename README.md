@@ -1,10 +1,45 @@
-## Hi
+[## Hi
 <div>
   university student, currently working in server monitoring room.
 </div>
 <br>
 
 ## 📚Skills
+<strong style="font-size: 1.2em;">Main</strong>
+<div style="display: flex; gap: 10px; margin-top: 0;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+</div>
+<br>
+
+<strong style="font-size: 1.2em;">Recently Used</strong>
+<div style="display: flex; gap: 10px; margin-top: 0;">
+</div>
+<br>
+
+<strong style="font-size: 1.2em;">Rarely Used</strong>
+<div style="display: flex; gap: 10px; margin-top: 0;">
+</div>
+<br>
+
+<strong style="font-size: 1.2em;">Used At Least Once</strong>
+<div style="display: flex; gap: 10px; margin-top: 0;">
+</div>
+<br>
+
+<strong style="font-size: 1.2em;">Tool</strong>
+<div style="display: flex; gap: 10px; margin-top: 0;">
+</div>
+<br>
+
+## 🪪Certifications
+<ul style="list-style-type: disc;">
+  <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
+  <li>Naver Cloud Platform Associate</li>
+</ul>
+
+<!--
 <strong style="font-size: 1.2em;">Languages</strong>
 <div style="display: flex; gap: 10px; margin-top: 0;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -45,9 +80,4 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 <br>
-
-## 🪪Certifications
-<ul style="list-style-type: disc;">
-  <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
-  <li>Naver Cloud Platform Associate</li>
-</ul>
+-->](url)
