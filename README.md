@@ -44,7 +44,7 @@
 
 ## Certifications
 <div style="margin-top: 5px;"></div>
-### 2024
+2024
 <ul style="list-style-type: disc;">
   <li>리눅스 마스터 2급 (Linux Master Level 2)</li>
   <li>Naver Cloud Platform Associate</li>
