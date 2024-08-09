@@ -18,6 +18,7 @@
 <strong style="font-size: 1.1em;">Recently Studying</strong>
 <div style="display: flex; gap: 5px; margin-top: 5px; margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
