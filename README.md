@@ -5,7 +5,7 @@
 <br>
 
 
-## Skills
+## Skills ⚙
 <div style="font-size: 1em;">Languages</div>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
@@ -44,7 +44,24 @@
 <br>
 
 
-## Certifications
+## Contact 📞
+<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d8558570@gmail.com)
+
+
+<br>
+
+
+## Certifications 🪪
 - SQL Developer *(2024. 9)*
 - 리눅스 마스터 2급 (Linux Master Level 2) *(2024. 6)*
 - Naver Cloud Platform Associate *(2024. 5)*
+
+
+<br>
+<br>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnslfkrh" alt="Top Langs">
+</p>
