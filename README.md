@@ -6,26 +6,31 @@
 
 
 ## Skills ⚙
-<div style="font-size: 1em;">Languages</div>
+
+<div></div>
+<strong style="font-size: 1em;">Languages</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 </div>
 
-<div style="font-size: 1em;">Frameworks</div>
+<br>
+<strong style="font-size: 1em;">Frameworks</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
 </div>
 
-<div style="font-size: 1em;">Databases</div>
+<br>
+<strong style="font-size: 1em;">Databases</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
 
-<div style="font-size: 1em;">Deploy</div>
+<br>
+<strong style="font-size: 1em;">Deploy</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
@@ -33,7 +38,8 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
 </div>
 
-<div style="font-size: 1em;">ETC.</div>
+<br>
+<strong style="font-size: 1em;">ETC.</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
@@ -48,6 +54,9 @@
 <a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d8558570@gmail.com)
 
+<!-- 벨로그 -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
+
 
 <br>
 
@@ -56,22 +65,3 @@
 - SQL Developer *(2024. 9)*
 - 리눅스 마스터 2급 (Linux Master Level 2) *(2024. 6)*
 - Naver Cloud Platform Associate *(2024. 5)*
-
-
-<br>
-<br>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnslfkrh" alt="Top Langs">
-</p>
-
-
-<br>
-
-
-<p align="center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
-
-</p>
