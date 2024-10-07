@@ -65,3 +65,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnslfkrh" alt="Top Langs">
 </p>
+
+
+<br>
+
+
+<p align="center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://github.com/dnslfkrh/velog-readme-stats)
+
+</p>
