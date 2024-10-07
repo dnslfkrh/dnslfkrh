@@ -72,6 +72,6 @@
 
 <p align="center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://github.com/dnslfkrh/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
 
 </p>
