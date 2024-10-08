@@ -52,7 +52,7 @@
 
 ## Contact 📞
 <a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d8558570@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dnslfkrh@gmail.com)
 
 <!-- 벨로그 -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
