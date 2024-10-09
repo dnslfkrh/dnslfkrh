@@ -50,18 +50,27 @@
 <br>
 
 
-## Contact 📞
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dnslfkrh@gmail.com)
-<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
-
-<!-- 벨로그 -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
-
-
-<br>
-
-
 ## Certifications 🪪
 - SQL Developer *(2024. 9)*
 - 리눅스 마스터 2급 (Linux Master Level 2) *(2024. 6)*
 - Naver Cloud Platform Associate *(2024. 5)*
+
+
+<br>
+
+<!--
+## Experience
+-->
+
+## Contact 📞
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dnslfkrh@gmail.com)
+<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
+
+
+<div align="center">
+
+  <!-- 벨로그 -->
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh)](https://velog.io/@dnslfkrh)
+
+</div>
