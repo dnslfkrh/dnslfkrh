@@ -58,6 +58,7 @@
 
 <br>
 
+
 <!--
 ## Experience
 -->
@@ -67,11 +68,11 @@
 <a href="https://www.linkedin.com/in/dnslfkrh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>
 
+<br>
 
 <div align="center">
 
   <!-- 벨로그 -->
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh&tag=알고리즘)](https://velog.io/@dnslfkrh/알고리즘-강의-내용-정리)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh)](https://velog.io/@dnslfkrh)
 
 </div>
