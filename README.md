@@ -64,7 +64,8 @@
 
 ## Contact 📞
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dnslfkrh@gmail.com)
-<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@dnslfkrh"/></a>
+<a href="https://www.linkedin.com/in/dnslfkrh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>
 
 
 <div align="center">
