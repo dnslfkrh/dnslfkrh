@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
-
-<br>
 <strong style="font-size: 1em;">Infrastructure</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
