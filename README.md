@@ -13,7 +13,6 @@
 <strong style="font-size: 1em;">Infrastructure</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-    <img src="https://img.shields.io/badge/NCP-03C75D?style=flat&logo=naver&logoColor=white&logoSize=0">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
