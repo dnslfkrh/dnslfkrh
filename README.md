@@ -21,6 +21,7 @@
 </div>
 
 ## Certifications
+- 정보처리기능사 (Craftsman Information Processing) *(2024. 12)*
 - SQL Developer *(2024. 9)*
 - 리눅스 마스터 2급 (Linux Master Level 2) *(2024. 6)*
 - Naver Cloud Platform Associate *(2024. 5)*
