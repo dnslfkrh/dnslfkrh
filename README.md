@@ -5,9 +5,9 @@
 <div></div>
 <strong style="font-size: 1em;">Development</strong>
 <div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
 </div>
 <strong style="font-size: 1em;">Infrastructure</strong>
