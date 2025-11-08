@@ -1,6 +1,6 @@
 ## Hi there 👋
 I currently work as an infrastructure engineer.  
-I'm interested in application server development, cloud computing, and DevOps.
+I'm interested in application development, cloud and DevOps.
 
 <div></div>
 
@@ -44,4 +44,3 @@ I'm interested in application server development, cloud computing, and DevOps.
 
 ## Contact
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:dnslfkrh@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/dnslfkrh/)
-<div></div>
