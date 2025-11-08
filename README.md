@@ -34,11 +34,13 @@ I'm interested in application development, cloud and DevOps.
 <div></div>
 
 ## Certifications
-- 네트워크 관리사 2급 *(2025. 4)*
-- 정보처리기능사 *(2024. 12)*
-- SQL Developer *(2024. 9)*
-- 리눅스 마스터 2급 *(2024. 6)*
-- Naver Cloud Platform Associate *(2024. 5)*
+| Name | Issuer | Date |
+|:---:|:---:|:---:|
+| Network Administrator Level 2 | ICQA | Apr 2025 |
+| Information Processing Technician | HRD Korea | Dec 2024 |
+| SQL Developer (SQLD) | KData | Sep 2024 |
+| Linux Master Level 2 | KAIT | Jun 2024 |
+| Naver Cloud Platform Associate | Naver Cloud | May 2024 |
 
 <div></div>
 
