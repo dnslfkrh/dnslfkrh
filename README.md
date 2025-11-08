@@ -8,22 +8,22 @@ I'm interested in application development, cloud and DevOps.
 <div></div>
 <strong style="font-size: 1em;">Development</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,react,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,react,unity&theme=light)](https://skillicons.dev)
 
 <div></div>
 <strong style="font-size: 1em;">Infrastructure</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,nginx,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,nginx,mysql,mongodb&theme=light)](https://skillicons.dev)
 
 <div></div>
 <strong style="font-size: 1em;">Tool</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,githubactions,grafana,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,githubactions,grafana,figma&theme=light)](https://skillicons.dev)
 
 <div></div>
 <strong style="font-size: 1em;">Interest</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,supabase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,supabase&theme=light)](https://skillicons.dev)
 
 <div></div>
 
@@ -45,4 +45,4 @@ I'm interested in application development, cloud and DevOps.
 <div></div>
 
 ## Contact
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:dnslfkrh@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/dnslfkrh/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:dnslfkrh@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/dnslfkrh/)
