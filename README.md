@@ -1,24 +1,37 @@
 ## Hi there 👋
-공부하고 있습니다.
+I currently work as an infrastructure engineer.  
+I'm interested in application server development, cloud computing, and DevOps.
 
-## In Progress
+<div></div>
+
+## My Stacks
 <div></div>
 <strong style="font-size: 1em;">Development</strong>
-<div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
-    <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,react,unity&theme=dark)](https://skillicons.dev)
+
+<div></div>
 <strong style="font-size: 1em;">Infrastructure</strong>
-<div class="skill-section" style="display: flex; gap: 5px; margin-top: 5px;">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white">
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,nginx,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+<div></div>
+<strong style="font-size: 1em;">Tool</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,githubactions,grafana,figma&theme=dark)](https://skillicons.dev)
+
+<div></div>
+<strong style="font-size: 1em;">Interest</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,terraform,jenkins,supabase&theme=dark)](https://skillicons.dev)
+
+<div></div>
+
+## Tech Vlogs
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh)](https://velog.io/@dnslfkrh)
+
+<div></div>
 
 ## Certifications
 - 네트워크 관리사 2급 *(2025. 4)*
@@ -27,7 +40,8 @@
 - 리눅스 마스터 2급 *(2024. 6)*
 - Naver Cloud Platform Associate *(2024. 5)*
 
+<div></div>
+
 ## Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dnslfkrh@gmail.com)
-<a href="https://www.linkedin.com/in/dnslfkrh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://velog.io/@dnslfkrh"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white"/></a>
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:dnslfkrh@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/dnslfkrh/)
+<div></div>
