@@ -34,7 +34,7 @@ I'm interested in application development, cloud and DevOps.
 <div></div>
 
 ## Certifications
-| Name | Issuer | Date |
+| **Name** | **Issuer** | **Date** |
 |:---:|:---:|:---:|
 | Network Administrator Level 2 | ICQA | Apr 2025 |
 | Information Processing Technician | HRD Korea | Dec 2024 |
