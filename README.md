@@ -27,7 +27,7 @@ I'm interested in application development, cloud and DevOps.
 
 <div></div>
 
-## Tech Vlogs
+## Tech Notes
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dnslfkrh)](https://velog.io/@dnslfkrh)
 
