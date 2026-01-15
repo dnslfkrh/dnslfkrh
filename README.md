@@ -8,7 +8,7 @@ I'm interested in application development, cloud and DevOps.
 <div></div>
 <strong style="font-size: 1em;">Development</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,react,unity&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,unity&theme=light)](https://skillicons.dev)
 
 <div></div>
 <strong style="font-size: 1em;">Infrastructure</strong>
