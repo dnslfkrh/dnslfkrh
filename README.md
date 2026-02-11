@@ -40,7 +40,7 @@ I'm interested in application development, cloud and DevOps.
 | 정보처리기능사 | HRD Korea | 2024. 12 |
 | SQL Developer (SQLD) | KData | 2024. 9 |
 | 리눅스 마스터 2급 | KAIT | 2024. 6 |
-| Naver Cloud Platform Associate | Naver Cloud | 2025. 5 |
+| Naver Cloud Platform Associate | Naver Cloud | 2024. 5 |
 
 <div></div>
 
