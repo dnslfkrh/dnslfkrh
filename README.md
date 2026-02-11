@@ -1,6 +1,6 @@
 ## Hi there 👋
-I currently work as an infrastructure engineer.  
-I majored in **Game & Web Development**, and I'm interested in Cloud and DevOps.
+현재 하이브리드 클라우드를 다루는 인프라 엔지니어로 일하고 있습니다.
+게임과 웹 개발을 전공하였으며, 클라우드와 DevOps, Backend 개발에 관심이 있습니다.
 
 <div></div>
 
