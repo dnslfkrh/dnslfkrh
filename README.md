@@ -1,19 +1,19 @@
 ## Hi there 👋
 I currently work as an infrastructure engineer.  
-I'm interested in application development, cloud and DevOps.
+I majored in **Game & Web Development**, and I'm interested in Cloud and DevOps.
 
 <div></div>
 
 ## My Stacks
 <div></div>
-<strong style="font-size: 1em;">Development</strong>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,unity&theme=light)](https://skillicons.dev)
-
-<div></div>
 <strong style="font-size: 1em;">Infrastructure</strong>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,nginx,mysql,mongodb&theme=light)](https://skillicons.dev)
+
+<div></div>
+<strong style="font-size: 1em;">Development</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,express,unity&theme=light)](https://skillicons.dev)
 
 <div></div>
 <strong style="font-size: 1em;">Tool</strong>
