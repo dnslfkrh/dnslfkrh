@@ -1,5 +1,6 @@
 ## Hi there 👋
-개발과 운영을 잇는 하이브리드 클라우드 인프라 엔지니어 이용욱입니다.
+
+개발과 운영을 잇는 엔지니어 이용욱입니다.
 
 > 단순한 운영을 넘어 지속 가능하고 표준화된 환경을 지향합니다.
 > 하이브리드 클라우드 환경에서 엔지니어로서 실무 운영 경험을 쌓았으며, 현재는 IaC와 GitOps 프로젝트 등을 통해 DevOps 역량을 확장하고 있습니다.
@@ -7,6 +8,7 @@
 <div></div>
 
 ## My Stacks
+
 <div></div>
 <strong style="font-size: 1em;">Infrastructure</strong>
 
